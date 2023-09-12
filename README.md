@@ -22,6 +22,7 @@ read_data.mat : Ce fichier MATLAB est conçu pour lire les données d'entraînem
 read_test_data.mat : Ce fichier MATLAB est utilisé pour lire les données de test. Il permet au modèle d'évaluer sa performance sur un ensemble de données de test distinct. De même, assurez-vous que vos données de test sont correctement organisées dans le répertoire data.
 
 visualize_data.ipynb : Ce fichier python est un outil de visualisation qui vous permet d'explorer les spectrogrammes des différents gestes enregistrés dans la base de données. Cette visualisation peut vous aider à mieux comprendre les données radar que vous utilisez dans votre projet.
+(https://github.com/140300/Stage_Actia_gesture_recognition_using_Mmwave_radar_Data/blob/main/confusion_matrix.png)
 
 => Après l'entraînement du modèle, nous avons obtenu une précision remarquable de 97,905 %. Vous pouvez consulter la figure ci-jointe pour visualiser la matrice de confusion qui détaille les performances du modèle en termes de classification des gestes.
 (confusion_matrix.png)
