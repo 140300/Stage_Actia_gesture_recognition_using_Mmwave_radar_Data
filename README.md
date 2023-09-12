@@ -9,7 +9,7 @@ Ce projet a été développé en utilisant les technologies suivantes :
 # Base de Données
 Dans ce projet, nous avons utilisé la base de données "dopnet", qui contient les données de 6 personnes effectuant différents gestes tels que click, swipe, pinch et wave. Cette base de données est essentielle pour l'entraînement et les tests du système de reconnaissance de gestes radar.
 
-Vous pouvez télécharger les données depuis le lien suivant "https://github.com/UCLRadarGroup/DopNet/blob/master/data/Data_Download_And_Details.md" et les placer dans le même répertoire que le projet.
+Vous pouvez télécharger les données depuis le lien suivant ("https://github.com/UCLRadarGroup/DopNet/blob/master/data/Data_Download_And_Details.md") et les placer dans le même répertoire que le projet.
 
 Une fois les données téléchargées, assurez-vous de les organiser correctement dans la structure de répertoire requise pour que votre application puisse les utiliser sans problème.
 # Structure du Projet
