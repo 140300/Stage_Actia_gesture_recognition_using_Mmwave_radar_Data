@@ -1,7 +1,7 @@
 # Stage_Actia_gesture_recognition_using_Mmwave_radar_Data
 Description
 Ce projet vise à développer un modele de reconnaissance de gestes en utilisant des données radar. Il exploite les informations radar pour identifier et classifier divers gestes effectués par un utilisateur, ouvrant ainsi la voie à des applications potentielles comme les véhicules autonomes.
-Technologies Utilisées
+# Technologies Utilisées
 Ce projet a été développé en utilisant les technologies suivantes :
 MATLAB
 Python
