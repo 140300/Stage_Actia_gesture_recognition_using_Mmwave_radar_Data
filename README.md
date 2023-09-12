@@ -27,5 +27,9 @@ visualize_data.ipynb : Ce fichier python est un outil de visualisation qui vous 
 
 => Après l'entraînement du modèle, nous avons obtenu une précision remarquable de 97,905 %. Vous pouvez consulter la figure ci-jointe pour visualiser la matrice de confusion qui détaille les performances du modèle en termes de classification des gestes.
 ![Matrice de confusion](https://github.com/140300/Stage_Actia_gesture_recognition_using_Mmwave_radar_Data/blob/main/confusion_matrix.png)
+<p align="center">
+  <img src="https://github.com/140300/Stage_Actia_gesture_recognition_using_Mmwave_radar_Data/blob/main/confusion_matrix.png" alt="Alt Text">
+</p>
+
 
 
