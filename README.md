@@ -1,18 +1,17 @@
 # Stage_Actia_gesture_recognition_using_Mmwave_radar_Data
-Description
+# Description
 Ce projet vise à développer un modele de reconnaissance de gestes en utilisant des données radar. Il exploite les informations radar pour identifier et classifier divers gestes effectués par un utilisateur, ouvrant ainsi la voie à des applications potentielles comme les véhicules autonomes.
 # Technologies Utilisées
 Ce projet a été développé en utilisant les technologies suivantes :
-MATLAB
-Python
-Base de Données
+*MATLAB
+*Python
+# Base de Données
 Dans ce projet, nous avons utilisé la base de données "dopnet", qui contient les données de 6 personnes effectuant différents gestes tels que click, swipe, pinch et wave. Cette base de données est essentielle pour l'entraînement et les tests du système de reconnaissance de gestes radar.
 
-Téléchargement des Données
 Vous pouvez télécharger les données depuis le lien suivant et les placer dans le même répertoire que le projet.
 
 Une fois les données téléchargées, assurez-vous de les organiser correctement dans la structure de répertoire requise pour que votre application puisse les utiliser sans problème.
-Structure du Projet
+# Structure du Projet
 Le projet est organisé de manière à faciliter le développement, l'entraînement et la compréhension du système de reconnaissance de gestes radar. Voici une explication de la structure du projet :
 
 CNN.m : Ce fichier MATLAB contient le code source du modèle de réseau de neurones convolutif (CNN) utilisé pour la reconnaissance de gestes radar. Vous pouvez explorer ce fichier pour comprendre la structure et les paramètres du modèle.
