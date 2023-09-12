@@ -4,11 +4,12 @@ Ce projet vise à développer un modele de reconnaissance de gestes en utilisant
 # Technologies Utilisées
 Ce projet a été développé en utilisant les technologies suivantes :
 *MATLAB
+
 *Python
 # Base de Données
 Dans ce projet, nous avons utilisé la base de données "dopnet", qui contient les données de 6 personnes effectuant différents gestes tels que click, swipe, pinch et wave. Cette base de données est essentielle pour l'entraînement et les tests du système de reconnaissance de gestes radar.
 
-Vous pouvez télécharger les données depuis le lien suivant et les placer dans le même répertoire que le projet.
+Vous pouvez télécharger les données depuis le lien suivant "https://github.com/UCLRadarGroup/DopNet/blob/master/data/Data_Download_And_Details.md" et les placer dans le même répertoire que le projet.
 
 Une fois les données téléchargées, assurez-vous de les organiser correctement dans la structure de répertoire requise pour que votre application puisse les utiliser sans problème.
 # Structure du Projet
@@ -23,4 +24,5 @@ read_test_data.mat : Ce fichier MATLAB est utilisé pour lire les données de te
 visualize_data.ipynb : Ce fichier python est un outil de visualisation qui vous permet d'explorer les spectrogrammes des différents gestes enregistrés dans la base de données. Cette visualisation peut vous aider à mieux comprendre les données radar que vous utilisez dans votre projet.
 
 => Après l'entraînement du modèle, nous avons obtenu une précision remarquable de 97,905 %. Vous pouvez consulter la figure ci-jointe pour visualiser la matrice de confusion qui détaille les performances du modèle en termes de classification des gestes.
+
 
